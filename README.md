@@ -23,24 +23,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (AI Memory Extensions)
 
-- **[Letta (formerly MemGPT)](https://letta.ai/)**  
-  Pioneering memory management system that gives agents infinite context through hierarchical memory, self-editing memory, and autonomous recall.
-
-- **[claude-mem / Claude Memory Tools](https://claude.ai/)**  
-  Official and third-party memory extensions that enhance Claude with persistent knowledge and conversation memory.
-
-- **[MemoryPlugin](https://memoryplugin.com/)**  
-  Dedicated memory layer for AI assistants with smart retrieval and long-term knowledge retention.
-
-- **[MemSearch](https://memsearch.ai/)**  
-  Intelligent memory search and retrieval system for large-scale agent memory.
-
-- **[claude-supermemory](https://supermemory.ai/)**  
-  Advanced memory augmentation tool specifically optimized for Claude with powerful recall capabilities.
+| Product | Description | Pricing | Free Tier / Trial |
+| :--- | :--- | :--- | :--- |
+| **[Letta](https://letta.ai/)** | Infinite context via hierarchical memory & autonomous recall. | Pro: $20/mo, Max: $200/mo | 3 agents (BYOK) |
+| **[MemoryPlugin](https://memoryplugin.com/)** | Dedicated memory layer with smart retrieval for assistants. | Core: $10/mo, Pro: $25/mo | 14-day trial |
+| **[SuperMemory](https://supermemory.ai/)** | Advanced memory augmentation optimized for Claude. | Pro: $19/mo, Scale: $399/mo | 1M tokens, 10K queries |
+| **[Mem0 Cloud](https://mem0.ai/)** | Managed memory layer for personalized LLM agents. | Starter: $19/mo, Growth: $79/mo | 10,000 requests/mo |
+| **[Zep Cloud](https://getzep.com/)** | Enterprise-grade memory with semantic search. | Flex: $25/mo, Flex Plus: $375/mo | 1,000 credits/mo |
+| **[Claude Pro](https://claude.ai/)** | Native persistent knowledge & cross-session memory. | Pro: $20/mo, Team: $30/user/mo | Basic session memory |
+| **[MemSearch](https://memsearch.ai/)** | Large-scale intelligent search & retrieval for agents. | Managed via Zilliz (~$65/mo) | Free Local OS version |
 
 ### Advanced & Specialized Platforms
 
-**Other notable mentions**: Mem0 Cloud, Zep Cloud, and various enterprise memory layers.
+**Other notable mentions**: Various enterprise memory layers and specialized industry agents.
 
 ## Open-Source GitHub Projects
 
