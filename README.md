@@ -1,8 +1,10 @@
 # 🧠 Awesome AI Memory Extensions
 
-<div align="center">
+<p align="center">
   <img src="banner.svg" alt="Awesome AI Memory Extensions Banner" width="100%">
-  
+</p>
+
+<div align="center">
   <p align="center">
     <strong>The curated collection of dedicated AI memory systems, plugins, and frameworks for persistent long-term memory.</strong>
   </p>

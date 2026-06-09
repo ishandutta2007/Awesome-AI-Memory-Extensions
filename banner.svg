@@ -1,3 +1,4 @@
+<?xml version="1.1" encoding="UTF-8"?>
 <svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -6,9 +7,9 @@
     </linearGradient>
   </defs>
   <rect width="100%" height="100%" fill="url(#grad1)" rx="10" />
-  <text x="50%" y="45%" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="middle">Awesome AI Memory Extensions</text>
-  <text x="50%" y="70%" font-family="Arial, sans-serif" font-size="18" fill="white" text-anchor="middle" opacity="0.9">The Definitive Guide to Long-Term Memory for LLMs & AI Agents</text>
-  <circle cx="50" cy="50" r="20" fill="white" opacity="0.2" />
-  <circle cx="750" cy="150" r="30" fill="white" opacity="0.2" />
-  <path d="M700 40 L720 60 L700 80" stroke="white" stroke-width="4" fill="none" opacity="0.5" />
+  <text x="50%" y="45%" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Awesome AI Memory Extensions</text>
+  <text x="50%" y="70%" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#FFFFFF" text-anchor="middle" opacity="0.9">The Definitive Guide to Long-Term Memory for LLMs &amp; AI Agents</text>
+  <circle cx="50" cy="50" r="20" fill="#FFFFFF" opacity="0.2" />
+  <circle cx="750" cy="150" r="30" fill="#FFFFFF" opacity="0.2" />
+  <path d="M700 40 L720 60 L700 80" stroke="#FFFFFF" stroke-width="4" fill="none" opacity="0.5" />
 </svg>
