@@ -1,7 +1,7 @@
 # 🧠 Awesome AI Memory Extensions
 
 <p align="center">
-  <img src="banner.svg" alt="Awesome AI Memory Extensions Banner" width="100%">
+  <img src="./banner.svg" alt="Awesome AI Memory Extensions Banner" width="100%">
 </p>
 
 <div align="center">
