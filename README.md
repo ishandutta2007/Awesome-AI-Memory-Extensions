@@ -9,10 +9,15 @@
     <strong>The curated collection of dedicated AI memory systems, plugins, and frameworks for persistent long-term memory.</strong>
   </p>
 
-  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
   [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Memory-Extensions.svg?style=social)](https://github.com/ishandutta2007/Awesome-AI-Memory-Extensions/stargazers)
+<br />
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 </div>
 
 ---
