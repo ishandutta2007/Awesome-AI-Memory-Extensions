@@ -51,15 +51,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 ### 🛠️ Core Platforms (AI Memory Extensions)
 
-| Product | Description | Pricing | Free Tier / Trial |
-| :--- | :--- | :--- | :--- |
-| **[Letta](https://letta.ai/)** | Infinite context via hierarchical memory & autonomous recall. | Pro: $20/mo, Max: $200/mo | 3 agents (BYOK) |
-| **[MemoryPlugin](https://memoryplugin.com/)** | Dedicated memory layer with smart retrieval for assistants. | Core: $10/mo, Pro: $25/mo | 14-day trial |
-| **[SuperMemory](https://supermemory.ai/)** | Advanced memory augmentation optimized for Claude. | Pro: $19/mo, Scale: $399/mo | 1M tokens, 10K queries |
-| **[Mem0 Cloud](https://mem0.ai/)** | Managed memory layer for personalized LLM agents. | Starter: $19/mo, Growth: $79/mo | 10,000 requests/mo |
-| **[Zep Cloud](https://getzep.com/)** | Enterprise-grade memory with semantic search. | Flex: $25/mo, Flex Plus: $375/mo | 1,000 credits/mo |
-| **[Claude Pro](https://claude.ai/)** | Native persistent knowledge & cross-session memory. | Pro: $20/mo, Team: $30/user/mo | Basic session memory |
-| **[MemSearch](https://memsearch.ai/)** | Large-scale intelligent search & retrieval for agents. | Managed via Zilliz (~$65/mo) | Free Local OS version |
+| Product | Description | Pricing | Free Tier / Trial | Market Size / Valuation |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Claude Pro](https://claude.ai/)** | Native persistent knowledge & cross-session memory. | Pro: $20/mo, Team: $30/user/mo | Basic session memory | $965B Valuation / $47B+ ARR |
+| **[MemSearch](https://memsearch.ai/)** | Large-scale intelligent search & retrieval for agents. | Managed via Zilliz (~$65/mo) | Free Local OS version | Zilliz: $113M+ Funding |
+| **[Mem0 Cloud](https://mem0.ai/)** | Managed memory layer for personalized LLM agents. | Starter: $19/mo, Growth: $79/mo | 10,000 requests/mo | $150M Valuation |
+| **[Letta](https://letta.ai/)** | Infinite context via hierarchical memory & autonomous recall. | Pro: $20/mo, Max: $200/mo | 3 agents (BYOK) | $70M Valuation |
+| **[SuperMemory](https://supermemory.ai/)** | Advanced memory augmentation optimized for Claude. | Pro: $19/mo, Scale: $399/mo | 1M tokens, 10K queries | $20M Valuation |
+| **[Zep Cloud](https://getzep.com/)** | Enterprise-grade memory with semantic search. | Flex: $25/mo, Flex Plus: $375/mo | 1,000 credits/mo | $2.3M Valuation |
+| **[MemoryPlugin](https://memoryplugin.com/)** | Dedicated memory layer with smart retrieval for assistants. | Core: $10/mo, Pro: $25/mo | 14-day trial | $24k ARR (Bootstrapped) |
 
 ### 🔍 Advanced & Specialized Platforms
 
