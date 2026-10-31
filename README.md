@@ -101,6 +101,9 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 - **[Agent Memory Frameworks](https://github.com/search?q=agent+memory+llm)** 🏗️  
   Various community repositories for building hierarchical and self-improving memory systems for autonomous agents.
 
+- **[SoloPup Memory](https://github.com/OakcoderX/solopup-memory)** 🧩<br>
+  MIT public-beta DeepSeek Harness text-memory plugin preserving original-source references, global/project scope, conditions and correction history through lexical retrieval; model APIs may charge.
+
 ### 📚 Additional Strong Open-Source Options
 
 - **[LlamaIndex Memory Modules](https://github.com/run-llama/llama_index)** 🦙 — Advanced memory and chat engine features.
