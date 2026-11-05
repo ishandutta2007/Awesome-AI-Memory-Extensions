@@ -89,6 +89,9 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 - **[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)** 🌲
   Local-first Rust CLI/TUI for AI-agent memory lifecycle records, SQLite/FTS recall, redaction, deletion, consolidation, and audit trails.
 
+- **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** 🔒
+  MIT-licensed developer-alpha Rust engine, CLI, and MCP server for encrypted, append-only knowledge records with scoped, expiring access grants. Agents can search and retrieve records, with capture available through write-enabled grants; source installation is required.
+
 - **[Recall](https://github.com/recall-ai/recall)** 🔍  
   Lightweight open-source memory plugin for local LLMs and agents with semantic search capabilities.
 
