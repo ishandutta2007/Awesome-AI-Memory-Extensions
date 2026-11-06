@@ -153,3 +153,12 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 **Made for AI agent developers, researchers, and power users building persistent intelligent systems.**  
 Let's give AI true long-term memory with full privacy and control.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-AI-Memory-Extensions&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-AI-Memory-Extensions_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-AI-Memory-Extensions_growth.svg">
+  </picture>
+</a>
