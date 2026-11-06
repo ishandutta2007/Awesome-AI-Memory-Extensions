@@ -10,10 +10,11 @@
   </p>
 
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
+  [![Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome/raw/main/media/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
   [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Memory-Extensions.svg?style=social)](https://github.com/ishandutta2007/Awesome-AI-Memory-Extensions/stargazers)
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 <br />
 <br />
   <a href="https://github.com/ishandutta2007">
@@ -43,6 +44,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 - [✨ SaaS Products](#-saas-products)
 - [📂 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
 - [⚠️ Disclaimer](#-disclaimer)
 - [📈 Star History](#-star-history)
 
@@ -55,12 +57,13 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 | Product | Description | Pricing | Free Tier / Trial | Market Size / Valuation |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Claude Pro](https://claude.ai/)** | Native persistent knowledge & cross-session memory. | Pro: $20/mo, Team: $30/user/mo | Basic session memory | $965B Valuation / $47B+ ARR |
-| **[MemSearch](https://memsearch.ai/)** | Large-scale intelligent search & retrieval for agents. | Managed via Zilliz (~$65/mo) | Free Local OS version | Zilliz: $113M+ Funding |
-| **[Mem0 Cloud](https://mem0.ai/)** | Managed memory layer for personalized LLM agents. | Starter: $19/mo, Growth: $79/mo | 10,000 requests/mo | $150M Valuation |
+| **[Cognee Cloud](https://cognee.ai/)** | Managed self-hosted & cloud AI memory engine turning data into dynamic knowledge graphs. | $1/1M tokens, $5/mo per extra workspace | Free tier: 1M tokens, 1 workspace | High-growth Graph-RAG / Memory |
 | **[Letta](https://letta.ai/)** | Infinite context via hierarchical memory & autonomous recall. | Pro: $20/mo, Max: $200/mo | 3 agents (BYOK) | $70M Valuation |
+| **[Mem0 Cloud](https://mem0.ai/)** | Managed memory layer for personalized LLM agents. | Starter: $19/mo, Growth: $79/mo | 10,000 requests/mo | $150M Valuation |
+| **[MemoryPlugin](https://memoryplugin.com/)** | Dedicated memory layer with smart retrieval for assistants. | Core: $10/mo, Pro: $25/mo | 14-day trial | $24k ARR (Bootstrapped) |
+| **[MemSearch](https://memsearch.ai/)** | Large-scale intelligent search & retrieval for agents. | Managed via Zilliz (~$65/mo) | Free Local OS version | Zilliz: $113M+ Funding |
 | **[SuperMemory](https://supermemory.ai/)** | Advanced memory augmentation optimized for Claude. | Pro: $19/mo, Scale: $399/mo | 1M tokens, 10K queries | $20M Valuation |
 | **[Zep Cloud](https://getzep.com/)** | Enterprise-grade memory with semantic search. | Flex: $25/mo, Flex Plus: $375/mo | 1,000 credits/mo | $2.3M Valuation |
-| **[MemoryPlugin](https://memoryplugin.com/)** | Dedicated memory layer with smart retrieval for assistants. | Core: $10/mo, Pro: $25/mo | 14-day trial | $24k ARR (Bootstrapped) |
 
 ### 🔍 Advanced & Specialized Platforms
 
@@ -72,17 +75,41 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 ### 🛠️ Dedicated AI Memory Systems
 
+- **[Agent Memory Frameworks](https://github.com/search?q=agent+memory+llm)** 🏗️  
+  Various community repositories for building hierarchical and self-improving memory systems for autonomous agents.
+
+- **[Claude Memory Extensions](https://github.com/search?q=claude+memory+extension)** 🤖  
+  Multiple open-source projects enhancing Claude (and other models) with persistent memory, custom tools, and long-context management.
+
+- **[Claude-Mem](https://github.com/thedotmack/claude-mem)** 🧬  
+  Persistent cross-session memory stream for Claude Code and coding agents. Automatically captures CLI lifecycle hooks, tool use, and file edits into SQLite and vector stores with progressive recall.
+
+- **[Cognee](https://github.com/topoteretes/cognee)** 🕸️  
+  Memory engine for AI agents and LLMs that builds dynamic knowledge graphs with vector and relational retrieval for continuous context and factual grounding.
+
+- **[Graphiti](https://github.com/getzep/graphiti)** ⏱️  
+  Temporal context graph framework by Zep designed for dynamic agent memory. Automatically tracks evolving facts, temporal validity, and invalidated relationships.
+
+- **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** 🔒
+  MIT-licensed developer-alpha Rust engine, CLI, and MCP server for encrypted, append-only knowledge records with scoped, expiring access grants. Agents can search and retrieve records, with capture available through write-enabled grants; source installation is required.
+
+- **[LangMem](https://github.com/langchain-ai/langmem)** 🦜  
+  Official LangChain memory management toolkit with advanced recall, summarization, and entity memory features.
+
 - **[Letta (MemGPT)](https://github.com/letta-ai/letta)** 🌟  
   The most popular open-source implementation for giving agents infinite context via hierarchical memory management, self-editing memory, and autonomous recall mechanisms.
 
 - **[Mem0](https://github.com/mem0ai/mem0)** 🧠  
   Production-ready memory layer for LLM agents with user, session, and entity-based memory management. Highly extensible and widely adopted.
 
-- **[Zep](https://github.com/getzep/zep)** ⚡  
-  Open-source long-term memory store for LLM applications with vector search, semantic memory, and conversation history management.
+- **[MemoryPlugin](https://github.com/search?q=memoryplugin+llm)** 🧩  
+  Community-driven open-source memory extensions for various LLM frameworks.
 
-- **[LangMem](https://github.com/langchain-ai/langmem)** 🦜  
-  Official LangChain memory management toolkit with advanced recall, summarization, and entity memory features.
+- **[Recall](https://github.com/recall-ai/recall)** 🔍  
+  Lightweight open-source memory plugin for local LLMs and agents with semantic search capabilities.
+
+- **[SoloPup Memory](https://github.com/OakcoderX/solopup-memory)** 🧩<br>
+  MIT public-beta DeepSeek Harness text-memory plugin preserving original-source references, global/project scope, conditions and correction history through lexical retrieval; model APIs may charge.
 
 - **[SuperMemory](https://github.com/supermemoryai/supermemory)** 🧠  
   Open-source personal knowledge management + AI memory system inspired by claude-supermemory with powerful retrieval.
@@ -90,23 +117,8 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 - **[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)** 🌲
   Local-first Rust CLI/TUI for AI-agent memory lifecycle records, SQLite/FTS recall, redaction, deletion, consolidation, and audit trails.
 
-- **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** 🔒
-  MIT-licensed developer-alpha Rust engine, CLI, and MCP server for encrypted, append-only knowledge records with scoped, expiring access grants. Agents can search and retrieve records, with capture available through write-enabled grants; source installation is required.
-
-- **[Recall](https://github.com/recall-ai/recall)** 🔍  
-  Lightweight open-source memory plugin for local LLMs and agents with semantic search capabilities.
-
-- **[MemoryPlugin](https://github.com/search?q=memoryplugin+llm)** 🧩  
-  Community-driven open-source memory extensions for various LLM frameworks.
-
-- **[Claude Memory Extensions](https://github.com/search?q=claude+memory+extension)** 🤖  
-  Multiple open-source projects enhancing Claude (and other models) with persistent memory, custom tools, and long-context management.
-
-- **[Agent Memory Frameworks](https://github.com/search?q=agent+memory+llm)** 🏗️  
-  Various community repositories for building hierarchical and self-improving memory systems for autonomous agents.
-
-- **[SoloPup Memory](https://github.com/OakcoderX/solopup-memory)** 🧩<br>
-  MIT public-beta DeepSeek Harness text-memory plugin preserving original-source references, global/project scope, conditions and correction history through lexical retrieval; model APIs may charge.
+- **[Zep](https://github.com/getzep/zep)** ⚡  
+  Open-source long-term memory store for LLM applications with vector search, semantic memory, and conversation history management.
 
 ### 📚 Additional Strong Open-Source Options
 
@@ -130,6 +142,17 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 ---
 
+## 💖 Support
+
+Thank you for exploring and supporting **Awesome AI Memory Extensions**! If you find this curated resource helpful for your projects, research, or workflows, please consider supporting the project:
+
+- ⭐ **Star** this repository to show your appreciation and help others discover it.
+- 🍴 **Fork** and contribute new memory tools, plugins, or improvements.
+- 📢 **Share** it with your network, colleagues, and AI agent builder communities.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing curation and maintenance, consider sponsoring via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007). Every contribution is deeply appreciated!
+
+---
+
 ## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
@@ -140,15 +163,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 ## 📈 Star History
 
-<div align="center">
-	<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-AI-Memory-Extensions&type=date&legend=bottom-right">
-	 <picture>
-	   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Memory-Extensions&type=date&theme=dark&legend=bottom-right" />
-	   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Memory-Extensions&type=date&legend=bottom-right" />
-	   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Memory-Extensions&type=date&legend=bottom-right" />
-	 </picture>
-	</a>
-</div>
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-AI-Memory-Extensions&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-AI-Memory-Extensions&type=date&legend=top-left)
 
 ---
 
