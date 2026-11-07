@@ -84,6 +84,9 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 - **[Claude-Mem](https://github.com/thedotmack/claude-mem)** 🧬  
   Persistent cross-session memory stream for Claude Code and coding agents. Automatically captures CLI lifecycle hooks, tool use, and file edits into SQLite and vector stores with progressive recall.
 
+- **[Cloud Alter Ego](https://github.com/SebastiaanBoon/cloud-alter-ego)** 🗂️  
+  MIT-licensed template for sharing memory, working rules and auto-journaling between Claude Code and Codex, synced through Git. The hosted connector at cloudalterego.cafeboon.com gives any AI chat the same rules, profile and work history over remote MCP, stored as plain Markdown files in your own cloud storage.
+
 - **[Cognee](https://github.com/topoteretes/cognee)** 🕸️  
   Memory engine for AI agents and LLMs that builds dynamic knowledge graphs with vector and relational retrieval for continuous context and factual grounding.
 
