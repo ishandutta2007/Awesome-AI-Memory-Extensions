@@ -13,7 +13,7 @@
   [![Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome/raw/main/media/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-  [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Memory-Extensions.svg?style=social)](https://github.com/ishandutta2007/Awesome-AI-Memory-Extensions/stargazers)
+  [![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Memory-Extensions.svg?style=social)](https://github.com/ishandutta2007/Awesome-AI-Memory-Extensions/stargazers)
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 <br />
 <br />
